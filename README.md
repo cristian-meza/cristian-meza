@@ -24,7 +24,7 @@ Python • Go • Java • JavaScript • C++ • HTML • SQL
 
 ### Technologies
 
-Git • GitHub • VS Code • Anaconda Spyder • PTC Creo • AutoCAD
+Git • GitHub • VS Code • Anaconda Spyder • PTC Creo • AutoCAD • Microsoft Excel
 
 ## 📫 Connect With Me
 
