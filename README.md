@@ -20,7 +20,7 @@ Built a collection of applications featuring the core gameplay logic and graphic
 
 ### Languages
 
-Python • Go • Java • JavaScript • C++ • HTML • SQL
+Python • Go • Java • JavaScript • HTML • SQL
 
 ### Technologies
 
